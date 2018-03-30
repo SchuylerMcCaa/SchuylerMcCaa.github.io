@@ -1,0 +1,128 @@
+body {
+/*  padding-top: 50px;
+
+*/
+color: white;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+img {
+	height: 300px;
+	width: 300px;
+	display: block;
+	margin: auto;
+	/*border: 5PX solid white;*/
+	
+	margin-top: 40px;
+	margin-bottom: 40px;
+	
+}
+.pics {
+	border: 5PX solid white;
+	 position:relative;
+
+	
+}
+
+.flip {
+	transform: rotate(180deg);
+}
+.line-separator{
+
+height:2px;
+
+background:#717171;
+}
+body {
+	background-color: #bcd9db;
+}
+.bg-light {
+	background-color: #ffffff !important;
+}
+.navbar-brand {
+	color: #bcd9db !important;
+}
+.line {
+	color: white;
+}
+p, h4 {
+	padding-top: 40px;
+	padding-bottom: 40px;
+	justify-content: 
+}
+.not-first {
+	padding-top: 1px !important;
+}
+ .text {
+	padding-top: 20px;
+}
+
+.glyphicon {
+	color: #bcd9db;
+}
+
+.phone {
+	height: 70px;
+	width: 50px;
+	padding: 10px;
+}
+
+.fas {
+	size: 100px; 
+}
+
+.name {
+	padding-bottom: 200px;
+}
+
+.turn2 {
+	transform: rotate(90deg);
+}
+
+.title {
+	padding-top: 70px;
+}
+
+
+.btn-secondary {
+	color: #bcd9db;
+}
+
+.turn {
+	transform: rotate(270deg);
+}
+
+.inside {
+	position:absolute;
+	text-align: center;
+	
+}
+
+#cookingcaption{
+	padding-left: 150px;
+}
+
+#projectcaption {
+	padding-left: 100px;
+
+}
+
+#travelcaption {
+	padding-left: 150px;
+
+}
+#spanishcaption {
+	padding-left: 150px;
+
+}
+#jobcaption {
+	padding-left: 150px;
+
+}
+#sportcaption {
+	padding-left: 150px;
+
+}
+
